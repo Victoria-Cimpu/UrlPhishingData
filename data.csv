@@ -136,3 +136,78 @@ http://investors.rogers.com/,28,0,http:,True,False,2,False,3,0,False,ca,Cloudfla
 http://kmdg.rci.rogers.com/,27,0,http:,True,False,3,False,4,0,False,ca,R3,8643,True,443,6407,1,0.0,0.0,0.0,0.0,0,1
 http://cpe1033bfa018cd-cm1033bfa018cb.cpe.net.cable.rogers.com/,63,0,http:,True,False,5,False,6,1,False,ca,TRAEFIK DEFAULT CERT,7798,True,443,812,1,0.0,0.0,0.0,0.0,0,1
 http://cpe1033bfa018cd-cm1033bfa018cb.cpe.net.cable.rogers.com/,63,0,http:,True,False,5,False,6,1,False,ca,TRAEFIK DEFAULT CERT,7798,True,443,812,1,0.0,0.0,0.0,0.0,0,1
+http://mybell.bell.ca/Login,27,0,http:,True,False,2,False,3,0,False,ca,Entrust Certification Authority - L1K,9038,True,443,577,11,72.0,100.0,100.0,100.0,3,0
+http://account.rogers.com/,26,0,http:,True,False,2,False,3,0,False,ca,DigiCert TLS RSA SHA256 2020 CA1,8584,True,443,16625,2,100.0,100.0,20.0,0.0,2,0
+http://www.jobbank.gc.ca/,25,0,http:,False,False,3,False,4,0,False,ca,Entrust Certification Authority - L1F,11146,True,443,2665,59,100.0,87.5,100.0,100.0,2,0
+http://www.pm.gc.ca/,20,0,http:,False,False,3,False,4,0,False,ca,DigiCert TLS RSA SHA256 2020 CA1,8178,True,443,20940,4,100.0,100.0,100.0,100.0,0,0
+http://www.statcan.gc.ca/,25,0,http:,False,False,3,False,4,0,False,ca,R3,9740,True,443,8075,4,0.0,0.0,0.0,0.0,1,0
+http://www.scc-csc.ca/,22,0,http:,False,False,2,False,3,1,False,ca,Go Daddy Secure Certificate Authority - G2,11146,True,443,2675,5,100.0,100.0,100.0,100.0,0,0
+http://www.hc-sc.gc.ca/,23,0,http:,False,False,3,False,4,1,False,ca,Entrust Certification Authority - L1K,11146,True,443,2665,16,100.0,100.0,100.0,100.0,0,0
+http://www.rcmp-grc.gc.ca/,26,0,http:,False,False,3,False,4,1,False,ca,Entrust Certification Authority - L1K,11146,True,443,2665,8,100.0,100.0,100.0,100.0,0,0
+http://www.dnd.ca/,18,0,http:,False,False,2,False,3,0,False,ca,GeoTrust RSA CA 2018,8584,True,443,16625,2,0.0,0.0,0.0,0.0,2,0
+http://canada.justice.gc.ca/,28,0,http:,True,False,3,False,4,0,False,ca,Entrust Certification Authority - L1K,11146,True,443,2665,6,100.0,100.0,0.0,100.0,0,0
+http://www.cisc.gc.ca/,22,0,http:,False,False,3,False,4,0,False,ca,Entrust Certification Authority - L1K,11146,True,443,2665,11,100.0,100.0,100.0,100.0,0,0
+http://www.csc-scc.gc.ca/,25,0,http:,False,False,3,False,4,1,False,ca,Entrust Certification Authority - L1M,11146,True,443,2665,4,100.0,100.0,100.0,100.0,0,0
+http://www.dfo-mpo.gc.ca/,25,0,http:,False,False,3,False,4,1,False,ca,Entrust Certification Authority - L1K,8086,True,443,11079,126,100.0,100.0,100.0,100.0,1,0
+http://www.cbsa-asfc.gc.ca/,27,0,http:,False,False,3,False,4,1,False,ca,Entrust Certification Authority - L1K,11146,True,443,2665,2,100.0,100.0,100.0,100.0,0,0
+http://ncc-ccn.gc.ca/,21,0,http:,False,False,2,False,3,1,False,ca,Entrust Certification Authority - L1K,4083,True,443,14061,2,75.0,100.0,100.0,100.0,1,0
+http://nrc.canada.ca/,21,0,http:,True,False,2,False,3,0,False,ca,Entrust Certification Authority - L1K,11146,True,443,2665,2,0.0,0.0,0.0,0.0,0,0
+http://www.neb.gc.ca/,21,0,http:,False,False,3,False,4,0,False,ca,Entrust Certification Authority - L1K,8086,True,443,11079,10,100.0,100.0,0.0,100.0,0,0
+http://reserverunevisite.hydroquebec.com/,41,0,http:,True,False,2,False,3,0,False,ca,R3,8326,True,443,16276,1,0.0,0.0,0.0,0.0,1,1
+http://consultation.hydroquebec.com/,36,0,http:,True,False,2,False,3,0,False,ca,Entrust Certification Authority - L1M,8587,True,443,16624,4,0.0,0.0,0.0,0.0,1,1
+http://dialog.hydroquebec.com/,30,0,http:,True,False,2,False,3,0,False,ca,R3,8613,True,443,16509,1,0.0,0.0,0.0,0.0,1,1
+http://repertoiredespublications.hydroquebec.com/,49,0,http:,True,False,2,False,3,0,False,ca,R3,8613,True,443,16509,1,0.0,0.0,0.0,0.0,0,1
+http://conversation.hydroquebec.com/,36,0,http:,True,False,2,False,3,0,False,ca,R3,8613,True,443,16509,1,0.0,0.0,0.0,0.0,1,1
+http://right-moves.hydroquebec.com/,35,0,http:,True,False,2,False,3,1,False,ca,Entrust Certification Authority - L1M,8587,True,443,16624,4,0.0,0.0,0.0,0.0,1,1
+http://ofsys.hydroquebec.com/,29,0,http:,True,False,2,False,3,0,False,ca,Sectigo RSA Domain Validation Secure Server CA,5655,True,443,46095,2,0.0,0.0,0.0,0.0,0,1
+http://panel.hydroquebec.com/,29,0,http:,True,False,2,False,3,0,False,ca,R3,8613,True,443,16509,3,12.903225806451612,0.0,8.695652173913043,25.0,2,1
+http://isige.hydroquebec.com/,29,0,http:,True,False,2,False,3,0,False,ca,GTS CA 1D4,4443,True,443,54113,1,0.0,0.0,0.0,0.0,0,1
+http://nouvelles-admin.hydroquebec.com/,39,0,http:,True,False,2,False,3,1,False,ca,Entrust Certification Authority - L1K,6603,True,443,14618,1,0.0,0.0,0.0,0.0,0,1
+http://hydroquebec.com/,23,0,http:,True,False,1,False,2,0,False,ca,Entrust Certification Authority - L1M,8588,True,443,16624,4,85.71428571428571,100.0,100.0,100.0,1,0
+http://telus.com/,17,0,http:,False,False,1,False,2,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,4897,True,443,13335,4,90.0,100.0,81.81818181818183,100.0,6,0
+http://tinyroy.wctest.telus.com/,32,0,http:,False,False,3,False,4,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,3953,True,443,55002,27,0.7194244604316548,0.0,0.0,0.0,0,1
+http://business-staging.telus.com/,34,0,http:,False,False,2,False,3,1,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,3953,True,443,55002,27,0.7194244604316548,0.0,0.0,0.0,0,1
+http://wififinder.telus.com/,28,0,http:,False,False,2,False,3,0,False,gb,DigiCert Global G2 TLS RSA SHA256 2020 CA1,4093,True,443,14061,1,0.0,0.0,0.0,17.647058823529413,1,1
+http://www.solutions.telus.com/,31,0,http:,False,False,3,False,4,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,4897,True,443,13335,4,46.62576687116564,50.0,10.869565217391305,25.0,6,1
+http://partnerplan.telus.com/,29,0,http:,False,False,2,False,3,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,8620,True,443,16509,1,0.0,0.0,0.0,0.0,0,1
+http://conseils.telus.com/,26,0,http:,False,False,2,False,3,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,4897,True,443,13335,4,90.0,75.0,54.90196078431373,81.81818181818183,6,1
+http://wcpreview.telus.com/,27,0,http:,False,False,2,False,3,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,3953,True,443,55002,27,0.0,0.0,0.0,0.0,0,1
+http://wcstage.telus.com/,25,0,http:,False,False,2,False,3,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,4897,True,443,13335,27,0.7142857142857143,0.0,0.0,0.0,1,1
+http://www.wcstage.telus.com/,29,0,http:,False,False,3,False,4,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,4897,True,443,13335,27,0.7142857142857143,0.0,0.0,0.0,1,1
+http://www.wctest.telus.com/,28,0,http:,False,False,3,False,4,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,3953,True,443,55002,27,0.7194244604316548,0.0,0.0,0.0,0,1
+http://wcdevelopment.telus.com/,31,0,http:,False,False,2,False,3,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,3953,True,443,55002,27,0.7194244604316548,0.0,0.0,0.0,0,1
+http://careers.telus.com/,25,0,http:,False,False,2,False,3,0,False,ca,DigiCert Global G2 TLS RSA SHA256 2020 CA1,9750,True,443,8075,1,0.0,0.0,0.0,0.0,1,1
+http://api.digital.telus.com/,29,0,http:,False,False,3,False,4,0,False,ca,DigiCert TLS RSA SHA256 2020 CA1,4897,True,443,13335,2,0.0,0.0,0.0,0.0,0,1
+http://api.stage.digital.telus.com/,35,0,http:,False,False,4,False,5,0,False,ca,DigiCert TLS RSA SHA256 2020 CA1,4897,True,443,13335,2,0.0,0.0,0.0,17.647058823529413,0,1
+http://scotiabank.com/,22,0,http:,False,False,1,False,2,0,False,ca,Entrust Certification Authority - L1K,8594,True,443,16625,81,90.32258064516128,100.0,50.0,100.0,3,0
+http://arm4.scotiabank.com/,27,0,http:,False,False,2,False,3,0,False,ca,Entrust Certification Authority - L1K,9750,True,443,8075,2,0.0,0.0,0.0,0.0,0,1
+http://mi.scotiabank.com/,25,0,http:,False,False,2,False,3,0,False,ca,Entrust Certification Authority - L1K,8620,True,443,16509,2,0.0,0.0,0.0,0.0,0,1
+http://albertahealthservices.ca/,32,0,http:,False,False,1,False,2,0,False,ca,DigiCert EV RSA CA G2,6528,True,443,36534,28,100.0,100.0,100.0,100.0,1,0
+http://together4health.albertahealthservices.ca/,48,0,http:,False,False,2,False,3,0,False,ca,DigiCert TLS RSA SHA256 2020 CA1,8620,True,443,16509,1,1.7241379310344827,0.0,0.0,42.857142857142854,4,1
+http://alberta.ca/,18,0,http:,False,False,1,False,2,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,85.71428571428571,100.0,66.66666666666666,100.0,1,0
+http://tls.automattic.com/,26,0,http:,False,False,2,False,3,0,False,ca,Sectigo ECC Domain Validation Secure Server CA,4088,True,443,2635,2,2.3255813953488373,0.0,0.0,11.11111111111111,1,1
+http://vaccineincentive.alberta.ca/,35,0,http:,False,False,2,False,3,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,75.0,100.0,8.333333333333332,11.11111111111111,1,1
+http://recoveryplan.alberta.ca/,31,0,http:,False,False,2,False,3,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,85.71428571428571,100.0,6.666666666666667,25.0,1,1
+http://crowdfunding.alberta.ca/,31,0,http:,False,False,2,False,3,0,False,ca,R3,6611,True,443,14618,1,0.0,0.0,0.0,25.0,1,1
+http://conservationpass.alberta.ca/,35,0,http:,False,False,2,False,3,0,False,ca,R3,4743,True,443,16839,12,0.0,0.0,0.0,11.11111111111111,0,1
+http://grafana.uat.cloud.digitalid.alberta.ca/,46,0,http:,False,False,5,False,6,0,False,ca,R3,9751,True,443,8075,1,0.0,0.0,0.0,12.5,0,1
+http://regulatoryassuranceuat.alberta.ca/,41,0,http:,False,False,2,False,3,0,False,ca,R3,4743,True,443,16839,9,0.0,0.0,0.0,11.11111111111111,0,1
+http://grafana.sit.cloud.digitalid.alberta.ca/,46,0,http:,False,False,5,False,6,0,False,ca,R3,9751,True,443,8075,1,0.0,0.0,0.0,12.5,0,1
+http://grafana.prod.cloud.digitalid.alberta.ca/,47,0,http:,False,False,5,False,6,0,False,ca,R3,9751,True,443,8075,1,0.0,0.0,0.0,12.5,0,1
+http://grafana.dev.cloud.digitalid.alberta.ca/,46,0,http:,False,False,5,False,6,0,False,ca,R3,9751,True,443,8075,1,0.0,0.0,0.0,12.5,0,1
+http://ocya.alberta.ca/,23,0,http:,False,False,2,False,3,0,False,ca,R3,4451,True,443,54113,2,0.0,0.0,0.0,11.11111111111111,0,1
+http://dev.account.alberta.ca/,30,0,http:,False,False,3,False,4,0,False,ca,R3,9751,True,443,8075,1,0.0,0.0,0.0,5.263157894736842,0,1
+http://finesearch.eservices.alberta.ca/,39,0,http:,False,False,3,False,4,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,0.0,0.0,0.0,11.11111111111111,2,1
+http://bookvaccine.alberta.ca/,30,0,http:,False,False,2,False,3,0,False,ca,R3,8189,True,443,20940,2,0.0,0.0,0.0,17.647058823529413,1,1
+http://clareslawuat.alberta.ca/,31,0,http:,False,False,2,False,3,0,False,ca,R3,4743,True,443,16839,9,0.0,0.0,0.0,5.263157894736842,0,1
+http://your.alberta.ca/,23,0,http:,False,False,2,False,3,0,False,ca,R3,8621,True,443,16509,1,0.0,0.0,0.0,33.33333333333333,3,1
+http://livesandlivelihoods.alberta.ca/,38,0,http:,False,False,2,False,3,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,85.71428571428571,100.0,6.666666666666667,25.0,1,1
+http://nadc-bursaries-uat.alberta.ca/,37,0,http:,False,False,2,False,3,2,False,ca,R3,4743,True,443,16839,9,0.0,0.0,0.0,5.263157894736842,0,1
+http://cwb.labour.alberta.ca/,29,0,http:,False,False,3,False,4,0,False,ca,R3,4743,True,443,16839,12,0.0,0.0,0.0,11.11111111111111,0,1
+http://clareslaw.alberta.ca/,28,0,http:,False,False,2,False,3,0,False,ca,R3,4743,True,443,16839,12,0.0,0.0,0.0,5.263157894736842,0,1
+http://uatinternal.cwb.labour.alberta.ca/,41,0,http:,False,False,4,False,5,0,False,ca,R3,4743,True,443,16839,9,0.0,0.0,0.0,11.11111111111111,0,1
+http://talkaep.alberta.ca/,26,0,http:,False,False,2,False,3,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,75.0,100.0,5.0,25.0,1,1
+http://www.talkaep.alberta.ca/,30,0,http:,False,False,3,False,4,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,75.0,100.0,5.0,25.0,1,1
+http://provincialarchives.alberta.ca/,37,0,http:,False,False,2,False,3,0,False,ca,GTS CA 1D4,8656,True,443,15169,2,0.0,0.0,0.0,17.647058823529413,1,1
+http://surfacerights.alberta.ca/,32,0,http:,False,False,2,False,3,0,False,ca,Cloudflare Inc ECC CA-3,4898,True,443,13335,2,75.0,100.0,5.88235294117647,11.11111111111111,1,1
+http://511.alberta.ca/,22,0,http:,False,False,2,False,3,0,False,ca,Amazon RSA 2048 M02,8621,True,443,16509,2,0.0,0.0,0.0,11.11111111111111,1,1
